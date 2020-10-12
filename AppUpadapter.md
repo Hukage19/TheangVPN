@@ -1,5 +1,5 @@
 {
-"latestVersion":"21.1.1",
+"latestVersion":"21.1.2",
 "latestVersionCode":"7",
 "releaseNotes":[
 "Plz Update TheangVPN"
